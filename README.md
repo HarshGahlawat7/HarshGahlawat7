@@ -63,8 +63,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshGahlawat7&theme=redical&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
-
-###
 ###
 
 <picture>
