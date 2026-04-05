@@ -78,3 +78,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&theme=cobalt&text=©%202026%20Harsh%20Gahlawat&fontSize=20" width="100%" />
+</div>
